@@ -1,0 +1,280 @@
+{
+  "version": 1,
+  "base_track": "Little Wing",
+  "base_artist": "The Jimi Hendrix Experience",
+  "createdAt": "2026-03-03T06:13:25.637153Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Little Wing",
+      "artist": "Derek & The Dominos",
+      "has_synced": true,
+      "path": "select/01_Little_Wing_Derek_&_The_Dominos.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Little Wing",
+      "artist": "The Corrs",
+      "has_synced": true,
+      "path": "select/02_Little_Wing_The_Corrs.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Little Wing",
+      "artist": "The Corrs",
+      "has_synced": true,
+      "path": "select/03_Little_Wing_The_Corrs.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Little Wing",
+      "artist": "Def Leppard feat. Hothouse Flowers",
+      "has_synced": false,
+      "path": "select/04_Little_Wing_Def_Leppard_feat._Hothouse_Flowers.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Little Wing (With Hothouse Flowers)",
+      "artist": "Def Leppard",
+      "has_synced": false,
+      "path": "select/05_Little_Wing_(With_Hothouse_Flowers)_Def_Leppard.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Little Wing",
+      "artist": "G3",
+      "has_synced": false,
+      "path": "select/06_Little_Wing_G3.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Little Wing",
+      "artist": "G3 (Satriani, Vai, Malmsteen)",
+      "has_synced": false,
+      "path": "select/07_Little_Wing_G3_(Satriani,_Vai,_Malmsteen).txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Little Wing",
+      "artist": "The Jimi Hendrix Experience",
+      "has_synced": true,
+      "path": "select/08_Little_Wing_The_Jimi_Hendrix_Experience.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Little Wing",
+      "artist": "Sting",
+      "has_synced": true,
+      "path": "select/09_Little_Wing_Sting.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Little Wing - Live 10/12/68 2nd Show, Winterland, San Francisco, CA",
+      "artist": "Jimi Hendrix",
+      "has_synced": false,
+      "path": "select/10_Little_Wing_-_Live_10_12_68_2nd_Show,_Winterland,_San_Francisco,_CA_Jimi_Hendrix.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Little Wing",
+      "artist": "Popa Chubby",
+      "has_synced": false,
+      "path": "select/11_Little_Wing_Popa_Chubby.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Little Wing",
+      "artist": "Skid Row",
+      "has_synced": false,
+      "path": "select/12_Little_Wing_Skid_Row.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Bucky Little Wing",
+      "artist": "Islands",
+      "has_synced": true,
+      "path": "select/13_Bucky_Little_Wing_Islands.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Little Wing",
+      "artist": "Neil Young",
+      "has_synced": true,
+      "path": "select/14_Little_Wing_Neil_Young.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Little Wing",
+      "artist": "Neil Young",
+      "has_synced": true,
+      "path": "select/15_Little_Wing_Neil_Young.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Little Wing",
+      "artist": "Jimi Hendrix",
+      "has_synced": false,
+      "path": "select/16_Little_Wing_Jimi_Hendrix.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Little Wing",
+      "artist": "Jimi Hendrix",
+      "has_synced": true,
+      "path": "select/17_Little_Wing_Jimi_Hendrix.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "A Little Love",
+      "artist": "馮曦妤",
+      "has_synced": true,
+      "path": "select/18_A_Little_Love_馮曦妤.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "A Little Love",
+      "artist": "Fiona Fung",
+      "has_synced": true,
+      "path": "select/19_A_Little_Love_Fiona_Fung.lrc"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "We’re Happy Little Vegemites",
+      "artist": "Amanda Palmer",
+      "has_synced": true,
+      "path": "select/20_We’re_Happy_Little_Vegemites_Amanda_Palmer.lrc"
+    },
+    {
+      "id": "lrclib_21",
+      "source": "lrclib",
+      "title": "A Little Bit Of You",
+      "artist": "Lee Roy Parnell",
+      "has_synced": true,
+      "path": "select/21_A_Little_Bit_Of_You_Lee_Roy_Parnell.lrc"
+    },
+    {
+      "id": "lrclib_22",
+      "source": "lrclib",
+      "title": "A Little Bit Of You",
+      "artist": "Tyler Rich",
+      "has_synced": true,
+      "path": "select/22_A_Little_Bit_Of_You_Tyler_Rich.lrc"
+    },
+    {
+      "id": "lrclib_23",
+      "source": "lrclib",
+      "title": "A Little Bit Stronger",
+      "artist": "Sara Evans",
+      "has_synced": true,
+      "path": "select/23_A_Little_Bit_Stronger_Sara_Evans.lrc"
+    },
+    {
+      "id": "lrclib_24",
+      "source": "lrclib",
+      "title": "A Little Gasoline",
+      "artist": "Terri Clark",
+      "has_synced": true,
+      "path": "select/24_A_Little_Gasoline_Terri_Clark.lrc"
+    },
+    {
+      "id": "lrclib_25",
+      "source": "lrclib",
+      "title": "A Little Gasoline (Album Version)",
+      "artist": "Terri Clark",
+      "has_synced": true,
+      "path": "select/25_A_Little_Gasoline_(Album_Version)_Terri_Clark.lrc"
+    },
+    {
+      "id": "lrclib_26",
+      "source": "lrclib",
+      "title": "A Little Good News",
+      "artist": "Anne Murray",
+      "has_synced": true,
+      "path": "select/26_A_Little_Good_News_Anne_Murray.lrc"
+    },
+    {
+      "id": "lrclib_27",
+      "source": "lrclib",
+      "title": "A Little Heaven's Rubbing Off On Me",
+      "artist": "George Strait",
+      "has_synced": true,
+      "path": "select/27_A_Little_Heaven's_Rubbing_Off_On_Me_George_Strait.lrc"
+    },
+    {
+      "id": "lrclib_28",
+      "source": "lrclib",
+      "title": "A Little Heaven's Rubbing Off On Me (Album Version)",
+      "artist": "George Strait",
+      "has_synced": true,
+      "path": "select/28_A_Little_Heaven's_Rubbing_Off_On_Me_(Album_Version)_George_Strait.lrc"
+    },
+    {
+      "id": "lrclib_29",
+      "source": "lrclib",
+      "title": "A Little Less Talk and a Lot More Action",
+      "artist": "Toby Keith",
+      "has_synced": true,
+      "path": "select/29_A_Little_Less_Talk_and_a_Lot_More_Action_Toby_Keith.lrc"
+    },
+    {
+      "id": "lrclib_30",
+      "source": "lrclib",
+      "title": "A Little Less Talk And A Lot More Action (Album Version)",
+      "artist": "Toby Keith",
+      "has_synced": true,
+      "path": "select/30_A_Little_Less_Talk_And_A_Lot_More_Action_(Album_Version)_Toby_Keith.lrc"
+    },
+    {
+      "id": "lrclib_31",
+      "source": "lrclib",
+      "title": "A Little More Country Than That",
+      "artist": "Easton Corbin",
+      "has_synced": true,
+      "path": "select/31_A_Little_More_Country_Than_That_Easton_Corbin.lrc"
+    },
+    {
+      "id": "lrclib_32",
+      "source": "lrclib",
+      "title": "A Little More Country Than That (Album Version)",
+      "artist": "Easton Corbin",
+      "has_synced": true,
+      "path": "select/32_A_Little_More_Country_Than_That_(Album_Version)_Easton_Corbin.lrc"
+    },
+    {
+      "id": "lrclib_33",
+      "source": "lrclib",
+      "title": "A Little More Love",
+      "artist": "Vince Gill",
+      "has_synced": true,
+      "path": "select/33_A_Little_More_Love_Vince_Gill.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Little Wing",
+      "artist": "The Jimi Hendrix Experience",
+      "has_synced": false,
+      "path": "select/pl_01_Little_Wing_The_Jimi_Hendrix_Experience.txt"
+    }
+  ]
+}
