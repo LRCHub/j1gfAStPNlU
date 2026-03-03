@@ -1,0 +1,27 @@
+# The Jimi Hendrix Experience – Little Wing
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+Well she's walking through the clouds
+With a circus mind that's running 'round.
+Butterflies and zebras, fairy tales,
+That's all she ever thinks about.
+
+When I'm sad she comes to me
+With a thousand smiles she gives to me free.
+Said, "It's all right, take anything you want,
+Anything you want, anything."
+
+Well she's walking through the clouds
+With a circus mind that's running 'round.
+Butterflies and zebras, fairy tales,
+That's all she ever thinks about.
+
+When I'm sad she comes to me
+With a thousand smiles she gives to me free.
+Said, "It's all right, take anything you want,
+Anything you want, anything."
+
+Fly on, little wing.
+```
